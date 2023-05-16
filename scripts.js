@@ -17,13 +17,13 @@ const leo = {
 	name: leoName,
 	balance:leoBalance,
 	accessID: '47afb389-8014-4d0b-aff3-e40203d2107f',
-	age: 24,}
-    const address = {
+	age: 24 ,
+    address: {
 		number: leoNumber,
 		street: leoStreet,
 		postalCode: leoPostal,
 	}
-
+}
 
 const sarah = {
 	name:sarahName + sarahSurname,
